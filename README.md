@@ -1,5 +1,7 @@
 # 🦷 Oral Diseases Image Classification
 
+<img width="1536" height="1024" alt="WhatsApp Image 2026-10-26 at 4 16 52 PM" src="https://github.com/user-attachments/assets/3d795789-878b-452b-b572-907f52914431" />
+
 End-to-end deep learning project that classifies oral images into 5 conditions:
 **Calculus, Gingivitis, Hypodontia, Mouth ulcer, Tooth discoloration**, with a Gradio web app.
 
